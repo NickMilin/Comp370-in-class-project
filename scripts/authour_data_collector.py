@@ -6,6 +6,9 @@ import argparse
 script_dir = os.path.dirname(__file__)
 raw_path = os.path.join(script_dir, "..", "data", "raw")
 
+george_orwell = "OL118077A"
+roald_dahl = "OL34184A"
+
 def main():
 
     parse = argparse.ArgumentParser()

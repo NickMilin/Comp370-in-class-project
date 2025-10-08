@@ -1,0 +1,3886 @@
+{
+    "links": {
+        "self": "/authors/OL34184A/works.json",
+        "author": "/authors/OL34184A",
+        "next": "/authors/OL34184A/works.json?offset=50"
+    },
+    "size": 710,
+    "entries": [
+        {
+            "description": {
+                "type": "/type/text",
+                "value": "[ LANDLADY](https://openlibrary.org/works/OL20504259W)\r\nTHE RIDDLE\r\nTHE MONKEYS PAW\r\nTHROUGH IXX)R\r\nMAN-SIZE IN MARBLE\r\n[THE TELL-TALE HEART](https://openlibrary.org/works/OL41059W)\r\nA KIND OF SWAN SONG\r\nTHE CLXK TOWER GHOSr\r\nTHE GORGE OF THE CHUREIS\r\nTHE HAUNTED TRAILER\r\nTHE STRANGER\r\nBAD COMPANY\r\nTHE YELLOW CAT\r\nTHE WELL\r\nLAURA\r\nTHE SWAN CHILD\r\nTHE BROWN HAND\r\nTHE RED RCX)M\r\nTHE BLADES\r\nLOST HEARTS\r\nTHE SIGNALMAN\r\nTHE PICTURE OF DORIAN GRAY\r\nTHE SILVER MIRROR\r\nTHE STOLEN CIGAR-CASE\r\nTHE MYSTERIOUS MANSION\r\nSWEETS FROM A STRANGER\r\nTHE HITCH-HIKER\r\nTHE DREAM WOMAN\r\n[THE MASQUE OF THE RED DEATH](https://openlibrary.org/works/OL41050W)\r\nTHE SAILOR-BOYS TALE\r\nTHE HORLA\r\nTHE MUMMYS FOOT"
+            },
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Tales of Horror and Mystery",
+            "subjects": [
+                "Short horror story",
+                "cyanide",
+                "Horror tales",
+                "Mystery",
+                "Juvenile fiction",
+                "Fiction",
+                "Juvenile works",
+                "English fiction",
+                "short stories",
+                "mystery stories",
+                "horror stories",
+                "American Horror tales",
+                "American literature",
+                "Children's fiction",
+                "Classic Literature",
+                "Crime",
+                "Crime fiction",
+                "Crime in fiction",
+                "Detective and mystery stories",
+                "first-person narrative",
+                "Gothic fiction",
+                "Gothic fiction (literary genre)",
+                "Homicide",
+                "Horror",
+                "Horror fiction",
+                "Hyperesthesia",
+                "Murder",
+                "Murder in fiction",
+                "short story",
+                "plagues",
+                "abbeys",
+                "nobility",
+                "Hematidrosis",
+                "masquerade balls",
+                "shrouds",
+                "daggers",
+                "Juvenile audience",
+                "American fiction"
+            ],
+            "key": "/works/OL24173622W",
+            "covers": [
+                10591524
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113574A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL160918A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4426825A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18053A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL668699A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL804499A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1781270A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18615A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21093A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL623211A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL591204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL13066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20651A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL56244A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20646A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL115231A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29097A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1548725A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22358A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL135127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29388A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL58993A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subject_places": [
+                "Eton College",
+                "Cambridge"
+            ],
+            "subject_people": [
+                "Billy Weaver",
+                "Christopher Mulholland",
+                "Gregory W. Temple",
+                "Prince Prospero"
+            ],
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-02-02T08:19:32.765484"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-10-01T11:26:21.193988"
+            }
+        },
+        {
+            "subjects": [
+                "ghost stories",
+                "ghost story",
+                "ghosts",
+                "supernatural",
+                "ghost",
+                "haunted",
+                "haunting",
+                "scary",
+                "English Ghost stories",
+                "Ghost short stories in English (1800-1980)",
+                "Anthologies",
+                "American Horror tales",
+                "American literature",
+                "Children's fiction",
+                "Classic Literature",
+                "Crime",
+                "Crime fiction",
+                "Crime in fiction",
+                "Delitos",
+                "Detective and mystery stories",
+                "Fiction",
+                "first-person narrative",
+                "Gothic fiction",
+                "Gothic fiction (literary genre)",
+                "Homicide",
+                "Horror",
+                "Horror fiction",
+                "Horror stories",
+                "Horror tales",
+                "Hyperesthesia",
+                "Juvenile fiction",
+                "Murder",
+                "Murder in fiction",
+                "short stories",
+                "short story",
+                "Short horror stories",
+                "cyanide"
+            ],
+            "description": "An exciting collection of tales from the twilight world of haunted houses and hair-raising spectres is contained in this spine-chilling anthology.\r\n\r\nIncludes:\r\nTHE RIDDLE | Walter de la Mare \r\nTHE MONKEY'S PAW | W. W. Jacobs \r\nA TOUGH TUSSLE | Ambrose Bierce \r\nTHROUGH THE DOOR (from The Phantom Roundabout and Other Ghostly Stories) | Ruth Ainsworth \r\nA PAIR OF HANDS | Sir Arthur Quiller-Couch \r\nMAN-SIZE IN MARBLE | E. Nesbit \r\nKROGER'S CHOICE | John Gordon \r\nMANY COLOURED GLASS (from Young Winter's Tales) | Lucy M. Boston \r\nTHE CLOCK TOWER GHOST (from The Clock Tower Ghost) | Gene Kemp \r\nTHE BROWN HAND | Sir Arthur Conan Doyle \r\nTHE GORGE OF THE CHURELS | H. Russell Wakefield \r\n[THE TELL-TALE HEART](https://openlibrary.org/works/OL41059W) | Edgar Allan Poe \r\nA KIND OF SWAN SONG | Helen Cresswell \r\nTHE HAUNTED TRAILER | Robert Arthur \r\nTHE STRANGER | Ambrose Bierce \r\nTHE HAUNTED DOLL'S HOUSE | M. R. James \r\nTHE [Landlady](https://openlibrary.org/works/OL20504259W/Landlady) (from Kiss Kiss) | Roald Dahl \r\nBAD COMPANY | Walter de la Mare \r\nTHE YELLOW CAT | Michael Joseph \r\nTHE WOOING OF CHERRY BASNETT | Brian Alderson \r\nEXPIATION | E. F. Benson \r\nTHE SHADOW-CAGE (from The Shadow-Cage and Other Tales of the Supernatural) | Philippa Pearce \r\nTHE MORTAL | Oliver Onions \r\nTEA AND EMPATHY | Paul Dorrell \r\nLAURA | Saki \r\nTHE RED ROOM | H. G. Wells \r\nTHE WELL | W. W. Jacobs \r\nTHE SWAN CHILD (from A Whisper in the Night) | Joan Aiken",
+            "key": "/works/OL15168171W",
+            "title": "Ghost Stories",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL20651A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4426825A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4380217A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18615A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL50109A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21093A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1002035A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL668699A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3029893A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6811497A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL160918A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL56244A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6811498A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL804499A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113574A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18053A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL795590A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL241478A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL694360A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL591204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1458233A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL13066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                6393021
+            ],
+            "subject_people": [
+                "Billy Weaver",
+                "Christopher Mulholland",
+                "Gregory W. Temple"
+            ],
+            "subject_places": [
+                "Eton College",
+                "Cambridge"
+            ],
+            "latest_revision": 22,
+            "revision": 22,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-06-18T19:40:11.793351"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-10-01T11:26:21.193988"
+            }
+        },
+        {
+            "description": "Cargo / E. Michael Lewis --\r\nHorror of the heights / Arthur Conan Doyle --\r\nNightmare at 20,000 feet / Richard Matheson --\r\nFlying machine / Ambrose Bierce --\r\nLucifer! / E.C. Tubb --\r\nFifth category / Tom Bissell --\r\nTwo minutes forty-five seconds / Dan Simmons --\r\nDiablitos / Cody Goodfellow, Cody --\r\nAir raid / John Varley --\r\nYou are released / Joe Hill --\r\nWarbirds / David J. Schow --\r\nThe flying machine / Ray Bradbury --\r\nZombies on a plane / Bev Vincent --\r\n[They shall not grow old](https://openlibrary.org/works/OL20504289W) / Roald Dahl --\r\nMurder in the air / Peter Tremayne --\r\nThe turbulance expert / Stephen King --\r\nFalling / James Dickey --\r\nAfterword: an important message from the flight deck / Bev Vincent.",
+            "covers": [
+                12895868,
+                -1,
+                11950607
+            ],
+            "key": "/works/OL19145813W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL19981A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2725922A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19731A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21093A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4401000A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6474539A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL235668A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2827567A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2701613A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2631898A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL70928A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24137A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL39331A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7474274A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL15523541A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20895A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL8007934A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "title": "Flight or Fright",
+            "subjects": [
+                "Flight Fiction",
+                "Horror fiction",
+                "Horror stories",
+                "Horror tales",
+                "poetry",
+                "short stories",
+                "Fiction",
+                "Air travel",
+                "Airplane occupants",
+                "Airplanes",
+                "Editors",
+                "FICTION Anthologies (multiple authors)",
+                "FICTION Horror",
+                "Flight",
+                "Nonfiction",
+                "Suspense fiction",
+                "Transcontinental flights"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_places": [
+                "Maine"
+            ],
+            "latest_revision": 41,
+            "revision": 41,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-03-10T18:22:30.012152"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-18T04:25:12.358673"
+            }
+        },
+        {
+            "title": "Fireside Reader",
+            "covers": [
+                12232440
+            ],
+            "subjects": [
+                "American Short stories",
+                "English Short stories",
+                "short stories",
+                "fiction",
+                "American fiction",
+                "American Horror tales",
+                "American literature",
+                "Children's fiction",
+                "fear",
+                "horror",
+                "Horror stories",
+                "pendulums",
+                "Spanish Inquisition",
+                "amorality",
+                "Anglo-Saxons",
+                "aristocracy",
+                "detective fiction",
+                "Juvenile audience",
+                "locked-room mysteries",
+                "Mystery and detective stories",
+                "Drama",
+                "Private investigators",
+                "Children's fiction Chippendale Commodes",
+                "English language",
+                "textbooks for foreign speakers",
+                "Readers",
+                "SUBJECTS tradition",
+                "change",
+                "death",
+                "allegory",
+                "nonlinear narrative",
+                "gentleman's agreements",
+                "recluses",
+                "Mentally ill women"
+            ],
+            "key": "/works/OL16057038W",
+            "type": {
+                "key": "/type/work"
+            },
+            "description": {
+                "type": "/type/text",
+                "value": "The bottle imp / Robert Louis Stevenson --\r\nAn end to dreams / Stephen Vincent Bene\u0301t --\r\n[Parson's pleasure](https://openlibrary.org/works/OL8318648W) / Roald Dahl --\r\nThe bride comes to yellow sky / Stephen Crane --\r\nThe monkey's paw / W.W. Jacobs --\r\nThe foster portfolio / Kurt Vonnegut, Jr. --\r\nThe poor relation's story / Charles Dickens --\r\nThe real thing / Henry James --\r\nThe hostage / C.S. Forester --\r\nRip van Winkle / Washington Irving --\r\nThe girls in their summer dresses / Irwin Shaw --\r\nThe street that got mislaid / Patrick Waddington --\r\nA piece of steak / Jack London --\r\nThe secret ingredient / Paul Gallico --\r\nThe hawk / Liam O'Flaherty --\r\nThe apprentice / Dorothy Canfield Fisher --\r\nA sick call / Morley Callaghan --\r\nA terribly strange bed / Wilkie Collins --\r\nThe loss / Gillian Tindall --\r\nThe mouse / Saki (H.H. Munro) --\r\nTickets, please / D.H. Lawrence --\r\nThe country of the blind / H.G. Wells --\r\nThe gifts of war / Margaret Drabble --\r\nThe skedule / H.H. Wilson --\r\nWell I'm -! / G.E.M. Skues --\r\nThe weather breeder / Merrill Denison --\r\nIn and out of the houses / Elizabeth Taylor --\r\n[A rose for Emily](https://openlibrary.org/works/OL82884W) / William Faulkner --\r\nThe test / Brendan Gill --\r\nThe hammer of God / G.K. Chesterton --\r\nThe pocketbook game / Alice Childress --\r\nThe wedding gift / Thomas Raddall --\r\n[The adventure of the speckled band](https://openlibrary.org/works/OL262561W) / Sir Arthur Conan Doyle --\r\n[Pit and the Pendulum](https://openlibrary.org/works/OL273550W)/ Edgar Allan Poe --\r\nThe boy who drew cats / Lafcadio Ahearn --\r\nThe little governess / Katherine Mansfield --\r\nRunning wolf / Algernon Blackwood --\r\nThe peach stone / Paul Horgan --\r\nRed / W. Somerset Maugham --\r\nThe fiery wooing of Mordred / P.G. Wodehouse --\r\nA sunrise on the veld / Doris Lessing --\r\nThe ghost / Richard Hughes --\r\nThe birds / Daphne du Maurier --\r\nThe story of the widow's son / Mary Lavin --\r\nThe train from Rhodesia / Nadine Gordimer --\r\nDygartsbush / Walter D. Edmonds --\r\nThe jilting of Granny Weatherall / Katherine Anne Porter --\r\nWinter's morning / Len Deighton --\r\nThe lady on the gray / John Collier --\r\nThe wind and the snow of winter / Walter Van Tilburg Clark."
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1714233A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25963A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL44633A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21831A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subject_times": [
+                "Antebellum era"
+            ],
+            "subject_places": [
+                "Toledo",
+                "England",
+                "Calcutta",
+                "India",
+                "Surrey",
+                "Chelsea",
+                "London",
+                "Buckinghamshire",
+                "Jefferson",
+                "Mississippi",
+                "Yoknapatawpha County"
+            ],
+            "subject_people": [
+                "Father Time",
+                "Sherlock Holmes",
+                "John H. Watson",
+                "Stroke Moran",
+                "Helen Stoner",
+                "Grimesby Roylott",
+                "Cyril Boggis",
+                "Claud",
+                "Bert",
+                "Rummins",
+                "Emily Grierson",
+                "Homer Barron",
+                "Mr. Grierson",
+                "Tobe",
+                "Colonel Sartoris"
+            ],
+            "latest_revision": 11,
+            "revision": 11,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2011-08-11T09:04:39.607232"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-23T13:17:33.258724"
+            }
+        },
+        {
+            "title": "L'Invit\u00e9",
+            "covers": [
+                968995
+            ],
+            "key": "/works/OL14955648W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-03-15T19:42:54.610292"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-07T12:15:17.758709"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Pyr Library Pack Level 3",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL242867A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2802005A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL849790A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL10842634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29338815W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-11-17T14:30:14.597443"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-04T00:37:55.182834"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "MATILDA - ZUBIA",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2786936A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL236943A"
+                    }
+                }
+            ],
+            "covers": [
+                14301322,
+                14301320,
+                14301323,
+                14301321
+            ],
+            "key": "/works/OL35266020W",
+            "latest_revision": 5,
+            "revision": 5,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-21T15:54:47.308738"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-30T19:26:47.129613"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Miraculous Ever Growing Tortoise ",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43236560W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-05-04T09:01:54.981894"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ha-mekhashefot",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39346799W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-30T17:42:56.783247"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ts'arli be-mamlekhet ha-sho\u1e33olad",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL145209A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15026304A"
+                    }
+                }
+            ],
+            "key": "/works/OL42486759W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-03T02:10:31.493499"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "the enormous crocodile",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43124521W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-28T05:01:30.706183"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Witches",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39178378W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T22:32:23.949896"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u02bbOr \u1e7fe-sipurim a\u1e25erim",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL42492305W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-04T16:28:24.729095"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Twits",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39180124W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T22:49:49.403273"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Roald Dahl",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14261635A"
+                    }
+                }
+            ],
+            "key": "/works/OL42540602W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T00:57:18.382135"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Matilda",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43067589W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T09:26:26.805488"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Marvelously Revolting Recipes",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL236943A"
+                    }
+                }
+            ],
+            "key": "/works/OL39171239W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T21:23:00.616594"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "ha-\u02bbIg",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL42272292W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-12-19T12:20:00.912055"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Danny The Champion Of The World",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43168623W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-29T22:53:05.227277"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Charlie and the Chocolate Factory",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL41883965W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T03:04:50.354795"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Magic Finger",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL441677A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL38611176W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T05:31:59.043771"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The Bfg",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43010017W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-25T23:06:15.721940"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Love from Matilda",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39185739W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T23:41:07.405326"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Mar shu\u02bbal ha-mehulal",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL6406799A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14261635A"
+                    }
+                }
+            ],
+            "key": "/works/OL42480751W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-31T22:07:29.473533"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Roald Dahil",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43077816W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T12:01:11.561073"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Bfg",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39182116W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T23:07:21.777537"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Wonderful Words for Writing",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14261635A"
+                    }
+                }
+            ],
+            "key": "/works/OL42399517W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T20:32:01.657584"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Matilda",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL38966052W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-09T01:35:32.377615"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "charlie and the chocolate factory",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43091210W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T16:12:56.833688"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "title": "Gli sporcelli",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL43003083W",
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-25T16:04:48.632192"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Charlie and the Chocolate Factory",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL38269493W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-06-19T18:37:47.110343"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05de\u05d8\u05d9\u05dc\u05d3\u05d4",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL42057778W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-12-09T11:38:28.971245"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Cuentos en Verso para Ni\u00f1os Perversos",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL39273096W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-24T01:27:13.566586"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Razztwizzling Poetry",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14261635A"
+                    }
+                }
+            ],
+            "key": "/works/OL42419301W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T23:41:51.210716"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Revolting Rhymes",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7990572A"
+                    }
+                }
+            ],
+            "key": "/works/OL42395328W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T19:49:23.173980"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05e2\u05dc\u05d9\u05d6\u05d9\u05dd \u05d5\u05d7\u05e8\u05d5\u05d6\u05d9\u05dd \u05e4\u05d5\u05d7\u05d6\u05d9\u05dd",
+            "subjects": [
+                "Children's poetry, English",
+                "Translations into Hebrew"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL41870662W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T00:11:41.955997"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Lamb to the Slaughter",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL42418435W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T23:34:03.269442"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "boy",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    }
+                }
+            ],
+            "key": "/works/OL43067354W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T09:20:43.424633"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-21T18:10:37.985998"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Le livre de l'ann\u00e9e",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3113609A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL35340947W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-05-04T07:12:08.026889"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-20T15:10:58.556984"
+            }
+        },
+        {
+            "subjects": [
+                "Short stories",
+                "Schools",
+                "Self-acceptance",
+                "Juvenile fiction",
+                "Family",
+                "Families",
+                "Children's fiction"
+            ],
+            "key": "/works/OL15063290W",
+            "title": "It's Great To Be Eight",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL22132A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27144A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL33608A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL450110A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20989A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31800A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL68998A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22786A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL15061393A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4734485A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30250A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL15266951A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12765700A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL13665210A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL15266952A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL14937760A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                9407246
+            ],
+            "latest_revision": 17,
+            "revision": 17,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-04-19T22:18:36.182276"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-13T14:58:59.131219"
+            }
+        },
+        {
+            "title": "Der Weekend-Krimi",
+            "key": "/works/OL19317816W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL34221A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19981A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34047A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2632008A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21831A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL918960A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27436A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22586A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1860383A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22672A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20994A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL197550A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                10650106
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Der Mauervorsprung [englisch: The Ledge] / (Stephen King) [Harro Christensen]\r\nWenn die Gondeln Trauer tragen [englisch: Don't Look Now] / (Daphne du Maurier) [Eva Sch\u00f6nfeld]\r\nDer Mann, der Hunde Liebte [englisch: The Man Who Liked Dogs] / (Raymond Chandler) [Hans Wollschl\u00e4ger]\r\nDie letzte Pointe schreibt der Tod [englisch: Murder at the ABA] / (Isaac Asimov) [Margret Schulz-Wenzel] Kommentar: gek\u00fcrzt\r\nMonk [englisch: Monk] / (William Faulkner) [Elisabeth Schnack]\r\nT\u00f6dlicher Talisman (Hansj\u00f6rg Martin)\r\nTraurige Diamanten [englisch: The Old Man's Diamond] / (Mignon G. Eberhart) [Mechtild Sandberg]\r\nDie Stimme im Keller [englisch: Voices in the Coalbin] / (Mary Higgins Clark) [Liselotte Julius]\r\nDer Weg zum Himmel [englisch: The Way up to Heaven] / (Roald Dahl) [Wolfheinrich von der M\u00fclbe]\r\nDie Nacht, als Helen starb [englisch: The Night Helen Was Killed] / (Pauline C. Smith) [Ingrid Herrmann]\r\nKein Herz und keine Seele [englisch: Divided We Stand] / (Ruth Rendell) [Ilse Bezzenberger]\r\nAuftrag ausgef\u00fchrt [englisch: No Comebacks] / (Frederick Forsyth) [Rold Soellner & Hedda Soellner]\r\nEin neuer Anfang f\u00fcr Conradi (-ky)"
+            },
+            "latest_revision": 6,
+            "revision": 6,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-03-13T21:45:41.572233"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-11T00:59:10.548399"
+            }
+        },
+        {
+            "title": "Short Fiction, Classic and Contemporary -- Second Edition",
+            "subjects": [
+                "short stories",
+                "English literature",
+                "Collections",
+                "English fiction",
+                "Fiction",
+                "freedom",
+                "selfhood",
+                "self-fulfillment",
+                "meaning of love",
+                "short story",
+                "banks",
+                "detective fiction",
+                "Encyclop\u00e6dia Britannica",
+                "pawnbrokers",
+                "police inspectors",
+                "red hair",
+                "Mystery and detective stories",
+                "Children's fiction",
+                "tradition",
+                "change",
+                "death",
+                "allegory",
+                "nonlinear narrative",
+                "gentleman's agreements",
+                "recluses",
+                "Mentally ill women",
+                "African Americans",
+                "husband and wife",
+                "race relations",
+                "Satanism",
+                "Puritans",
+                "catechism",
+                "Devil",
+                "Boys",
+                "20th century English fiction",
+                "British and irish fiction (fictional works by one author)",
+                "christian fiction",
+                "Christmas",
+                "Christmas fiction",
+                "Christmas stories",
+                "Criticism and interpretation",
+                "Daily Express",
+                "Domestic fiction",
+                "family life",
+                "Family reunions",
+                "Stories (texts)",
+                "The Lass of Aughrim",
+                "Three Graces",
+                "West Britons",
+                "Irish literature",
+                "Young men",
+                "Copyists",
+                "classic literature",
+                "Psychology",
+                "Securities industry",
+                "history and criticism",
+                "Crime",
+                "Detective and mystery stories",
+                "Horror stories",
+                "Juvenile fiction",
+                "Revenge",
+                "American Horror tales",
+                "burial vaults",
+                "catalepsy",
+                "dragons",
+                "gothic fiction",
+                "hermitages",
+                "heroic romances",
+                "horror",
+                "horror tales",
+                "hysteria",
+                "knights",
+                "maces",
+                "psychogenic death",
+                "tarns",
+                "monograms",
+                "History",
+                "Juvenile audience",
+                "civil war",
+                "hanging",
+                "American Civil War",
+                "Confederate States of America",
+                "Union"
+            ],
+            "key": "/works/OL5367202W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1236297A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30963A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL52922A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21093A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18928A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19677A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL35183A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18319A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21831A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27349A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27363A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26681A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31827A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL44633A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29497A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL82236A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48139A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2444787A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25788A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217774A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20188A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL33621A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL507165A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                12193799,
+                11713241
+            ],
+            "description": "Roses, rhododendron / A. Adams --\r\nThe egg ; I want to know why / S. Anderson --\r\nRape fantasies / M. Atwood --\r\nThe story of my dovecot / I. Babel --\r\nSonny's blues / J. Baldwin --\r\nThe lesson / T.C. Bambara --\r\nMy mother's memoirs, my father's lie, and other true stories / R. Banks --\r\nLost in the funhouse / J. Barth --\r\nA city of churches / D. Barthelme --\r\n[Occurrence at Owl Creek Bridge](https://openlibrary.org/works/OL14863196W/An_Occurrence_at_Owl_Creek_Bridge) / A. Bierce --\r\nLike a bad dream / H. Bo\u0308ll --\r\nThe end of the duel / J.L. Borges --\r\nCathedral / R. Carver --\r\nPaul's case / W. Cather --\r\nThe enormous radio ; The swimmer / J. Cheever --\r\nThe darling ; Gooseberies ; The lady with the dog / A. Chekhov --\r\n[The story of an hour ](https://openlibrary.org/works/OL20078864W)/ K. Chopin --\r\nThe celebrated jumping frog of Calaveras County / S. Clemens (M. Twain) --\r\nThe secret sharer / J. Conrad --\r\nThe magic poker / R. Coover ; \r\nThe blue hotel ; \r\nThe open boat / S. Crane ; \r\n[The way up to heaven](https://openlibrary.org/works/OL20504268W) / R. Dahl --\r\n[The red-headed league](https://openlibrary.org/works/OL262476W) / A.C. Doyle --\r\nThe doctor / A. Dubus --\r\nKing of the bingo game / R. Ellison --\r\nDry September ; [A rose for Emily](https://openlibrary.org/works/OL82884W) ; [That evening sun](https://openlibrary.org/works/OL20080863W) / W. Faulkner --\r\nBabylon revisited / F. Scott Fitzgerald --\r\nTuesday siesta / G.G. Ma\u0301rquez ; \r\nThe yellow wallpaper / C.P. Gilman --\r\nThe overcoat / N. Gogol --\r\nThe life of the imagination / N. Gordimer --\r\nTwo gentle people / G. Greene --\r\nArgument and persuasion / D. Hall --\r\nTony Kytes, the arch-deceiver / T. Hardy --\r\n[The birthmark](https://openlibrary.org/works/OL455204W) ; [Young Goodman Brown](https://openlibrary.org/works/OL455569W) / N. Hawthorne --\r\nA Vermont tale / M. Helprin --\r\nHills like white elephants / E. Hemingway --\r\nThe lottery / S. Jackson --\r\nThe real thing ; The tree of knowledge / H. James --\r\nA white heron / S.O. Jewett --\r\n[Araby](https://openlibrary.org/works/OL20570121W) ; [The dead](https://openlibrary.org/works/OL15073437W) / J. Joyce --\r\nA hunger artist / F. Kafka --\r\nThe man who would be king ; Mary Postgate / R. Kipling --\r\nNot a good girl / P. Klass --\r\nHaircut / R. Lardner --\r\nThe horse-dealer's daughter ; The rocking-horse winner / D.H. Lawrence --\r\nThe professor's houses / U.K. LeGuin --\r\nOne off the short list ; A sunrise on the veld / D. Lessing --\r\nTo build a fire / J. London --\r\nA tree, a rock, a cloud / C. McCullers --\r\nThe magic barrel / B. Malamud --\r\nA dill pickle ; Miss Brill / K. Mansfield --\r\nThe outstation / W. Somerset Maugham --\r\nThe necklace / G. de Maupassant --\r\n[Bartleby the scrivener](https://openlibrary.org/works/OL102732W) / H. Melville --\r\nPatriotism / Y. Mishima --\r\nBoys and girls / A. Munro --\r\nThe passenger / V. Nabokov --\r\nThe going-away party ; Where are you going, where have you been? / J.C. Oates --\r\nThe creature / E. O'Brien --\r\nEverything that rises must converge ; A good man is hard to find / Flannery O'Connor --\r\nGuests of the nation ; My oedipus complex / Frank O'Connor --\r\nDo you like it here? / J. O'Hara --\r\nI stand here ironing / T. Olsen --\r\nA conversation with my father / G. Paley --\r\nWar / L. Pirandello --\r\n[The cask of Amontillado](https://openlibrary.org/works/OL41016W); [Fall of the House of Usher](https://openlibrary.org/works/OL41078W) ; [The purloined letter](https://openlibrary.org/works/OL41065W) / E.A. Poe --\r\nFlowering Judas ; The grave / K.A. Porter --\r\nThe valiant woman / J.F. Powers --\r\nThe diver / V.S. Pritchett --\r\nThe shot / A. Pushkin --\r\nThe conversion of the Jews / P. Roth --\r\nI-80 Nebraska, M. 490-M. 205 / J. Sayles --\r\nGimpel the fool / I.B. Singer --\r\nThe chrysanthemums / J. Steinbeck --\r\nThe catbird seat / J. Thurber --\r\nThe death of Ivan Ilych / L. Tolstoy --\r\nThe tryst / I. Turgenev --\r\nA & P ; The music school ; Made in heaven / J. Updike --\r\nRoselily ; To hell with dying / A. Walker --\r\nBlackberry winter ; The patented gate and the mean hamburger / R.P. Warren --\r\nPetrified man ; A worn path / E. Welty --\r\nThe other two ; Roman fever / E. Wharton --\r\nThe use of force / W.C. Williams --\r\nSmokers / T. Wolff --\r\nThe man who was almost a man / R. Wright --\r\nWriters on writing: How to tell a story / S. Clemens (M. Twain) --\r\nStephen Crane's own story / S. Crane --\r\nBiography of a story / S. Jackson --\r\nOn her own work / F. O'Connor --\r\nThe brief prose tale / E.A. Poe --\r\n\"Blackberry winter\": a recollection / R.P. Warren --\r\nIs Phoenix Jackson's grandson really dead? / E. Welty.",
+            "subject_people": [
+                "Peyton Farquhar",
+                "Eugene Foster",
+                "Mrs Foster",
+                "Louise Mallard",
+                "Brently Mallard",
+                "Josephine",
+                "Richards",
+                "Sherlock Holmes",
+                "John H. Watson",
+                "Jabez Wilson",
+                "Vincent Spaulding",
+                "Duncan Ross",
+                "Police Inspector Jones",
+                "Mr. Merryweather",
+                "John Clay",
+                "Archie",
+                "Emily Grierson",
+                "Homer Barron",
+                "Mr. Grierson",
+                "Tobe",
+                "Colonel Sartoris",
+                "Quentin Compson",
+                "Nancy",
+                "Caddy",
+                "Jason",
+                "Dilsey",
+                "Jesus",
+                "Mrs. Compson",
+                "Mr. Stovall",
+                "Jailer",
+                "Mr. Lovelady",
+                "Aylmer",
+                "Georgiana",
+                "Goodman Brown",
+                "Faith Brown",
+                "Goody Cloyse",
+                "Devil",
+                "Mangan's sister",
+                "Gabriel Conroy",
+                "Kate Morkan",
+                "Julia Morkan",
+                "Mary Jane Morkan",
+                "Lily",
+                "Gretta Conroy",
+                "Molly Ivors",
+                "Mr Browne",
+                "Freddy Malins",
+                "Mrs Malins",
+                "Bartell D'Arcy",
+                "Patrick Morkan",
+                "Michael Furey",
+                "Bartleby",
+                "Turkey",
+                "Nippers",
+                "Ginger Nut",
+                "John Jacob Astor",
+                "Cicero",
+                "Montresor",
+                "Fortunato",
+                "Luchresi",
+                "Lady Fortunato",
+                "Roderick Usher",
+                "Madeline Usher",
+                "Ethelred",
+                "C. Auguste Dupin",
+                "Minister D\u2014",
+                "Prosper Jolyot de Cr\u00e9billon"
+            ],
+            "subject_times": [
+                "19th century",
+                "1890",
+                "Antebellum era",
+                "1600s",
+                "Carnival",
+                "1861-65"
+            ],
+            "subject_places": [
+                "United States",
+                "Alabama",
+                "Owl Creek Bridge",
+                "New York",
+                "Paris",
+                "Mallard residence",
+                "London",
+                "Baker Street",
+                "Jefferson",
+                "Mississippi",
+                "Yoknapatawpha County",
+                "New England",
+                "Salem Village",
+                "Massachusetts",
+                "Araby",
+                "North Richmond Street",
+                "Araby bazaar",
+                "Ireland",
+                "Galway",
+                "Wall Street"
+            ],
+            "latest_revision": 21,
+            "revision": 21,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-10T09:42:38.201207"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-10T01:40:57.093663"
+            }
+        },
+        {
+            "subjects": [
+                "Children's fiction",
+                "Classic Literature",
+                "Crime",
+                "Detective and mystery stories",
+                "Fiction",
+                "Horror stories",
+                "Juvenile fiction",
+                "Revenge",
+                "horror tales",
+                "short stories",
+                "Cadillacs",
+                "banks",
+                "detective fiction",
+                "Encyclop\u00e6dia Britannica",
+                "pawnbrokers",
+                "police inspectors",
+                "red hair",
+                "Mystery and detective stories",
+                "American Detective and mystery stories",
+                "English Detective and mystery stories",
+                "American Horror tales",
+                "English Horror tales",
+                "Anthologie",
+                "anthology",
+                "Thriller",
+                "Short stories"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Each story in Great Short Tales of Mystery and Terror is an example of the work of an outstanding author--from Edgar Allan Poe and Sir Arthur Conan Doyle to such modern masters as Agatha Christie, Ross Macdonald, Georges Simenon and a score of other famous names. Appearing in these pages are the world's greatest fictional detectives--Sherlock Holmes, Hercule Poirot, Father Brown, James Bond, Lew Archer, Ellery Queen, Inspector Maigret and Perry Mason, all at work on some of their more baffling and fascinating cases.\r\n\r\nContents:\r\n[THE RED-HEADED LEAGUE](https://openlibrary.org/works/OL262476W) / Sir Arthur Conan Doyle\r\nTHE TURN OF THE TIDE / C. S Forester\r\nTHE SUMMER PEOPLE / Shirley Jackson\r\n[THE CASK OF AMONTILLADO](https://openlibrary.org/works/OL41016W) / Edgar Allan Poe\r\nTHE THIRD FLOOR FLAT / Agatha Christie\r\nTHE MAN WHO LIKED DICKENS / Evelyn Waugh\r\nWAS IT A DREAM / Guy de Maupassant\r\nTHE FOURTH MAN / John Russell\r\nTHE WENDIGO / Algernon Blackwood\r\nTHE TOUCH OF NUTMEG MAKES IT / John Collier\r\nTHE ABSENCE OF MR. GLASS / G. K. Chesterton\r\nMIRIAM / Truman capote\r\nTHE LOG OF THE EVENING STAR / Alfred Noyes\r\nCASTING THE RUNES / M. R. James\r\n[MAN FROM THE SOUTH](https://openlibrary.org/works/OL20504421W) / Roald Dahl\r\nTHE WHOLE TOWNS SLEEPING / Ray Bradbury\r\nTHE ARROW OF GOD / Leslie Charteris\r\nTHE TWO BOTTLES OF RELISH / Lord Dunsany\r\nTHE GETTYSBURG BUGLE / Ellery Queen\r\n[The Damned Thing](https://openlibrary.org/works/OL20084265W) / Ambrose Bierce\r\nDON'T LOOK NOW / Daphne du Maurier\r\nTHE HANDS OF MR. OTITRMOLE / Thomas Burke\r\nAN ALPINE DIVORCE / Robert Barr\r\nTHE INCAUTIOUS BURGLAR / John Dickson Carr\r\nTHANATOS PALACE HOTEL / Andr\u00e9 Maurois\r\nTHE GHOST.SHIP / Richard Middleton\r\nTHE RATS IN THE WALLS / H. P. Lovecraft\r\nAETER.DINNER STORY / William Irish\r\nANOTHER SOLUTION j Gilbert Highet\r\nTHE WAXWORK / A. M. Burrage\r\n<a href=\"https://openlibrary.org/works/OL85748W\" target=\"_blank\">FOR YOUR EYES ONLY</a> / Ian Fleming\r\nTHE FOGHORN / Gertrude Atherton\r\nLEININGEN VERSUS THE ANTS / c-arl. Stephenson\r\nTHE INTERRUPTION / W. W. Jacobs\r\nAN INVITATION TO THE HUNT / George Hitchcock\r\nTHE VOICE IN THE NIGHT / William Hope Hodgson\r\nMIDNIGHT BLUE / Ross Macdonald\r\nTHE REIVRN OF IMRAY / Rudyard Kipling\r\nJOURNEY BACKWARD INTO TIME / Georges Simenon\r\nTHE MOVIE PEOPLE / Robert Bloch\r\nBROKER'S SPECIAL / Stanley Ellin\r\nTHE SEA RAIDERS / H. G. Wells\r\nTHE CASE OF THE IRATE WITNTESS / Erie Stanley Gardner\r\nSREDNI VASHTAR / Saki (H. H. Munro)\r\nTHE NINE BILLION NAMES or GOD / Arthur C. Clarke"
+            },
+            "key": "/works/OL16480320W",
+            "title": "Great Short Tales of Mystery and Terror",
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                -1
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL7314622A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL232499A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL507165A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27695A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1391432A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29388A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1684311A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL394726A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL318116A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18524A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL239800A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1008743A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL56244A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24137A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL896624A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL39937A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20922A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21093A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34047A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL120825A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL215819A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL465130A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL115895A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1009591A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22161A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2205533A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL137117A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL254976A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29227A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2688089A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2034185A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL160918A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL956666A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL68313A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL342146A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL125391A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1684660A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1238814A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL13066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL23222A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL591204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2623461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subject_people": [
+                "Montresor",
+                "Fortunato",
+                "Luchresi",
+                "Lady Fortunato",
+                "Carlos",
+                "Sherlock Holmes",
+                "John H. Watson",
+                "Jabez Wilson",
+                "Vincent Spaulding",
+                "Duncan Ross",
+                "Police Inspector Jones",
+                "Mr. Merryweather",
+                "John Clay",
+                "Archie",
+                "James Bond"
+            ],
+            "subject_times": [
+                "1890",
+                "carnival"
+            ],
+            "subject_places": [
+                "London",
+                "Baker Street",
+                "Jamaica"
+            ],
+            "latest_revision": 25,
+            "revision": 25,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2012-01-27T08:01:45.148694"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-08T11:05:47.726965"
+            }
+        },
+        {
+            "key": "/works/OL3480524W",
+            "title": "The world anthology",
+            "first_publish_date": "1983",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL580507A"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL661927A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19677A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22098A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4327652A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26681A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18319A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Literature",
+                "Study and teaching (Secondary)",
+                "Reading (Secondary)",
+                "Readers (Secondary)",
+                "Textbooks",
+                "Reading",
+                "Remedial teaching"
+            ],
+            "covers": [
+                11035273
+            ],
+            "latest_revision": 16,
+            "revision": 16,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-10T03:41:01.522431"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-25T23:46:50.194282"
+            }
+        },
+        {
+            "title": "The World Anthology -- second edition",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL580507A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4714370A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24137A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22098A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19677A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL36513180W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_people": [
+                "Anne Frank",
+                "Dr. Heidegger",
+                "Colonel Killigrew",
+                "Mr. Medbourne",
+                "Mr. Gascoigne",
+                "Widow Wycherley",
+                "Sylvia Ward",
+                "Sherlock Holmes",
+                "John H. Watson",
+                "Lord Bellinger",
+                "Trelawney Hope",
+                "Eduardo Lucas",
+                "Hilda Trelawney Hope",
+                "Inspector G. Lestrade",
+                "Father Time"
+            ],
+            "subjects": [
+                "Literature",
+                "Collections",
+                "Supernatural",
+                "Fiction",
+                "Paranormal fiction",
+                "short story",
+                "Fountain of youth (Legendary place)",
+                "Children's fiction",
+                "Supernatural fiction",
+                "prime ministers",
+                "secretaries of state",
+                "Hitchhiking",
+                "Pickpockets",
+                "American Horror tales",
+                "American literature",
+                "American Short stories",
+                "fear",
+                "horror",
+                "Horror stories",
+                "pendulums",
+                "Short stories",
+                "Spanish Inquisition",
+                "Study and teaching (Secondary)",
+                "Reading (Secondary)",
+                "Readers (Secondary)",
+                "Textbooks",
+                "Reading",
+                "Remedial teaching"
+            ],
+            "subject_places": [
+                "Fountain of Youth",
+                "Florida",
+                "Whitehall Terrace",
+                "221B Baker Street",
+                "Paris",
+                "London",
+                "Epsom",
+                "Derby Day",
+                "Toledo"
+            ],
+            "subject_times": [
+                "1975"
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-08-28T11:27:11.409886"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-15T22:37:21.650393"
+            }
+        },
+        {
+            "first_publish_date": "June 1996",
+            "key": "/works/OL271414W",
+            "title": "Adventures for Readers -- Book One",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL2628024A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL105157A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22098A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                14416170
+            ],
+            "subject_people": [
+                "Billy Weaver",
+                "Christopher Mulholland",
+                "Gregory W. Temple"
+            ],
+            "subjects": [
+                "Short horror story",
+                "cyanide"
+            ],
+            "subject_places": [
+                "Eton College",
+                "Cambridge"
+            ],
+            "latest_revision": 12,
+            "revision": 12,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-24T23:37:27.934762"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-11T08:29:12.426843"
+            }
+        },
+        {
+            "title": "Adventures for Readers -- Book One -- Pegasus Edition",
+            "key": "/works/OL4868602W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1036489A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22098A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_people": [
+                "Billy Weaver",
+                "Christopher Mulholland",
+                "Gregory W. Temple"
+            ],
+            "subjects": [
+                "Short horror story",
+                "cyanide"
+            ],
+            "subject_places": [
+                "Eton College",
+                "Cambridge"
+            ],
+            "latest_revision": 6,
+            "revision": 6,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-10T07:49:41.013793"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-10T23:30:44.353861"
+            }
+        },
+        {
+            "subjects": [
+                "American Christian fiction",
+                "American Didactic fiction",
+                "American Horror tales",
+                "American literature",
+                "Children's fiction",
+                "Classic Literature",
+                "Crime",
+                "Crime fiction",
+                "Detective and mystery stories",
+                "Fiction",
+                "first-person narrative",
+                "Gothic fiction",
+                "Homicide",
+                "Horror",
+                "Horror fiction",
+                "Horror stories",
+                "Horror tales",
+                "Hyperesthesia",
+                "Juvenile fiction",
+                "Murder",
+                "short stories",
+                "Christian literature",
+                "American fiction (collections)"
+            ],
+            "key": "/works/OL8446322W",
+            "title": "The Moral of the Story",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL2816824A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9936871A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22242A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9388A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26681A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22098A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL223132A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                12304043,
+                583193
+            ],
+            "description": "Part I: The imitation of Christ --\r\nI. Jesus Christ: His birth (Christmas-related stories) --\r\nThe revolt in heaven / Samuel Kamaleson --\r\n\"Why the chimes rang\" / Raymond Macdonald Alden --\r\n\"If He had not come\" / Nan F. Weeks --\r\n\"The innkeeper of Bethlehem\" / J.W.G. Ward --\r\n\"Merry Tifton!\" / D. James Kennedy --\r\nII. Jesus Christ: His life and ministry --\r\n\"The creation\" / James Weldon Johnson --\r\n\"The man born blind\" / J.W.G. Ward --\r\nThe startling painting / Fyodor Dostoyevsky --\r\n\"Alive\" / Max Lucado --\r\nThe story of the faithful friend and its exegesis in a medieval sermon / Summary of Everyman --\r\nIII. Imitating Christ --\r\nThe deaths of the apostles / John Foxe --\r\n\"In the arena\" / Chuck Colson --\r\n\"The ministry of Edward Spencer\" / Jerry Newcombe --\r\n\"Father Zossima's brother\" / Fyodor Dostoyevsky --\r\nIn His steps / Charles M. Sheldon. Part II: The seven deadly sins --\r\nI. Pride --\r\nThe temptation of Christ / from the Gospel According to Luke (NIV) --\r\nThe parable of the Pharisee and the Publican / from the Gospel According to Luke (NIV) --\r\nThe casket scenes from The Merchant of Venice / William Shakespeare --\r\nParadise lost / John Milton --\r\nBen Franklin on pride / from Poor Richard's Almanack --\r\nProclamation of a national fast day / Abraham Lincoln --\r\nOur solid American citizen / Ralph Linton --\r\n\"The teapot\" / Hans Christian Andersen --\r\n\"The good things of life\" / Arthur Gordon --\r\nII. Greed --\r\nNaboth's vineyard / from the Book of I Kings (NIV) --\r\nThe healing of Naaman the Leper and the greed of Gehazi / retold by Jesse Hurlbut --\r\nThe widow's mite / from the Gospel According to Luke (NIV) --\r\nAnanias and Sapphira / from the Book of Acts (NIV) --\r\n\"The stolen fruit\" / from The Confessions of St. Augustine --\r\n\"The pardoner's tale\" / Geoffrey Chaucer --\r\nBen Franklin on greed / from Poor Richard's Almanack --\r\nIII. Envy --\r\nCan and Abel / from the Book of Genesis (NIV) --\r\nSaul and David / retold by Jesse Hurlbut --\r\n\"Little Snowdrop\" / a classic fairytale, retold by Dinah Craik --\r\nIago's intentions / by William Shakespeare --\r\n\"Headmaster Bard\" / by Bjornstjerne Bjornson, translated by Kirsti Saebo Newcombe --\r\nIV. Anger --\r\nThe parable of the unmerciful servant / from the Gospel According to Matthew (NIV) --\r\nMichael LeFan on anger / Michael LeFan --\r\n\"[Tell-tale Heart](https://openlibrary.org/works/OL41059W)\" / by Edgar Allen Poe --\r\n\"The first cre\u0300che\" / Arthur Gordon --\r\n\"The hammer of God\" / G.K. Chesterton --\r\n\"Tropical paradise lost and found\" / retold by Jerry Newcombe --\r\nV. Lust --\r\nThe destruction of Sodom and Gomorrah / from the Book of Genesis (NIV) --\r\nJoseph and Potiphar's wife / from the Book of Genesis (NIV) --\r\nDavid and Bathsheba / retold by Jesse Hurlbut --\r\nAmnon and Tamar / from the Book of 2 Samuel (NIV) --\r\nThe Roman feast / by Henryk Stenkiewicz, translated by Jeremiah Curtin --\r\nSt. Augustine's struggle with lust / from The Confessions of St. Augustine --\r\n\"Alypius and the gladiators\" / from The Confessions of St. Augustine --\r\nBen Franklin on lust / from Poor Richard's Almanack --\r\n\"Freed from lust\" / Steve Gallagher --\r\nVI. Gluttony --\r\nThe Bible on gluttony --\r\nBen Franklin on gluttony / from Poor Richard's Almanack --\r\nThe disappearance of Augustus Gloop / Roald Dahl --\r\nForty-one sausages in one sitting / William Trevor --\r\n\"Lenny's las meal\" / Robert Newcombe --\r\n\"Betty and the pigs\" / Lily Guzman --\r\nVII. Sloth --\r\nBen Franklin on sloth / from Poor Richard's Almanack --\r\nA tale of two diaries --\r\n\"How Stonewall Jackson got his name / Robert Folsom --\r\nMy intense longing to learn to read / Booker T. Washington --\r\nThe actor who gave his all / Lee Buck with Dick Schneider --\r\nThe diligence of a polio victim / Michael LeFan. Part III: Faith, hope, and love --\r\nI. Peter walks on the water / from the Gospel According to Matthew (NIV) --\r\nCaptured by giant despair / John Bunyan --\r\n\"The celestial railroad\" / Nathaniel Hawthorne --\r\n\"God lives\" / Hans Christian Andersen --\r\nThe conversion of Adoniram Judson / E. Myers Harrison --\r\nII. Hope --\r\n\"The impotent man of Bethesda\" / J.W.G. Ward --\r\nThe healing of the leper women / Lew Wallace --\r\n\"I heard the bells on Christmas day\" / Henry Wadsworth Longfellow --\r\nThe cave scene / C.S. Lewis --\r\n\"Go down death --\r\na funeral sermon\" / James Weldon Johnson --\r\nThough he slay me / B.J. Hoff --\r\nIII. Love --\r\n\"The prodigal son\" / retold by Charles Dickens --\r\n\"Terje Vigen\" / Henrik Ibsen, translated by Kirsti Saebo Newcombe --\r\n\"The mansion\" / Henry Van Dyke --\r\n\"First hunt\" / Arthur Gordon. Part IV: Just for fun --\r\nAlice and the Cheshire-cat / Lewis Carroll --\r\n\"Peter Dass outwits the devil \" / retold by Kirsti Saebo Newcombe --\r\n\"Reinert meets the cannibals\" / retold by Kirsti Saebo Newcombe --\r\n\"the cop and the anthem / O. Henry --\r\n\"The innkeeper's wise daughter\" / Peninnah Schram --\r\nAppendix: The most wonderful story.",
+            "latest_revision": 7,
+            "revision": 7,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-10T22:48:12.548505"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-09-22T14:46:50.081581"
+            }
+        },
+        {
+            "title": "Elements of Literature--Third Course",
+            "subjects": [
+                "Readers (Secondary)",
+                "Literature",
+                "Study and teaching",
+                "Study & Teaching",
+                "Language Arts / Linguistics / Literacy",
+                "Literary Criticism"
+            ],
+            "key": "/works/OL15138577W",
+            "type": {
+                "key": "/type/work"
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1075047A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3351252A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24137A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1195114A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2626519A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL52922A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "latest_revision": 8,
+            "revision": 8,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-05-05T23:48:03.196206"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-20T22:48:31.863272"
+            }
+        },
+        {
+            "first_publish_date": "1985",
+            "title": "The Treasury of English Short Stories",
+            "covers": [
+                14818829,
+                10034500,
+                4194767
+            ],
+            "subject_places": [
+                "Commonwealth countries",
+                "Great Britain"
+            ],
+            "lc_classifications": [
+                "PR1309.S5 S84 1985"
+            ],
+            "key": "/works/OL120633W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL1237526A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL37436A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL161167A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34184A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL82236A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL52922A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL223132A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "dewey_number": [
+                "823/.01/08"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "short stories",
+                "beekeepers",
+                "royal jelly",
+                "grubs",
+                "Social life and customs",
+                "Short stories, Commonwealth (English)",
+                "Fiction",
+                "English Short stories",
+                "Short stories, English",
+                "Commonwealth of Nations authors"
+            ],
+            "description": "The Reeve's Tale / Geoffrey Chaucer --\r\nThe Apparition of Mrs. Veal / Daniel Defoe --\r\nThe Wedding of Jenny Distaff / Richard Steele --\r\nA Story of an Heir / Joseph Addison --\r\nThe Mysterious Bride / James Hogg --\r\nThe Tapestried Chamber or The Lady in the Sacque / Sir Walter Scott --\r\nThe Half-Brothers / Elizabeth Gaskell --\r\nSnobs and Marriage / William Makepeace Thackeray --\r\nThe Boots at the Holly-Tree Inn / Charles Dickens --\r\nThe White Cat of Drumgunniol / J.S. Le Fanu --\r\nReturning Home / Anthony Trollope --\r\nThe Dead Hand / Wilkie Collins --\r\nA Tradition of Eighteen Hundred and Four / Thomas Hardy --\r\nThe Story of a Piebald Horse / W.H. Hudson --\r\nA Lodging for the Night / Robert Louis Stevenson --\r\nThe Birthday of the Infanta / Oscar Wilde --\r\nIl Conde / Joseph Conrad --\r\nThe New Catacomb / Sir Arthur Conan Doyle --\r\nMary Postgate / Rudyard Kipling --\r\nMr. Brisher's Treasure / H.G. Wells --\r\nThe Broken Boot / John Galsworthy --\r\nTobermory / Saki (H.H. Munro) --\r\nThe Creatures / Walter de la Mare --\r\nThe Colonel's Lady / W. Somerset Maugham --\r\nArabesque- The Mouse / A.E. Coppard --\r\nThe Boarding House / James Moyce --\r\nThe Duchess and the Jeweller / Virginia Woolf. Bachelors / Hugh Walpole --\r\nThe Prussian Officer / D.H. Lawrence --\r\nNew Women / Joyce Cary --\r\nBliss / Katherine Mansfield --\r\nIdenborough / Sylvia Townsend Warner --\r\nFard / Aldous Huxley --\r\nSpring Sowing / Liam O'Flaherty --\r\nHand in Glove / Elizabeth Bowen --\r\nSinners / Sean O'Faolain --\r\nThe Spree / V.S. Pritchett --\r\nA Wedding-Dress / Morley Callaghan --\r\nJudas / Frank O'Connor --\r\nA Drink in the Passage / Alan Paton --\r\nMortmain / Graham Greene --\r\nThe Spring Hat / H.E. Bates --\r\nUnder the Banyan Tree / R.K. Narayan --\r\nThe Old Man / Daphne du Maurier --\r\nEterna / Mary Lavin --\r\nWilly-Wagtails by Moonlight / Patrick White --\r\nThe True Story / Dylan Thomas --\r\n[Royal Jelly](https://openlibrary.org/works/OL20504271W) / Roald Dahl --\r\nThe Fathers' Daughters / Muriel Spark --\r\nTwo Potters / Doris Lessing --\r\nThe Confirmation Suit / Brendan Behan --\r\nNative Country / Nadine Gordimer --\r\nPrizes / Janet Frame --\r\nTimoshenko / Iain Crichton Smith --\r\nThe Ballroom of Romance / William Trevor --\r\nA Day in the Country / Dan Jacobson --\r\nWeekend / Shirley Hazzard --\r\nPrue / Alice Munro --\r\nLegend for a Painting / Julia O'Faolain --\r\nThrenody / Fay Weldon --\r\nCords / Edna O'Brien --\r\nRape Fantasies / Margaret Atwood --\r\nThe Courtship of Mr. Lyon / Angela Carter --\r\nSecrets / Bernard MacLaverty --\r\nNight in Tunisia / Neil Jordan.",
+            "subject_people": [
+                "Albert Taylor",
+                "Mabel Taylor"
+            ],
+            "latest_revision": 14,
+            "revision": 14,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-18T08:31:40.736268"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-09-29T12:33:29.299795"
+            }
+        }
+    ]
+}

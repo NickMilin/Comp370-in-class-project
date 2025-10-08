@@ -1,0 +1,3965 @@
+{
+    "links": {
+        "self": "/authors/OL118077A/works.json",
+        "author": "/authors/OL118077A",
+        "next": "/authors/OL118077A/works.json?offset=50"
+    },
+    "size": 770,
+    "entries": [
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homage to Catalonia",
+            "subjects": [
+                "History",
+                "Personal narratives",
+                "Politics and government"
+            ],
+            "subject_places": [
+                "Spain"
+            ],
+            "subject_times": [
+                "Civil War, 1936-1939",
+                "1931-1939"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL44082095W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-09-27T23:34:26.513440"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-27T23:34:26.513440"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "al-\u02bb\u0100lam \u02bb\u0101m alf wa-tas\u02bbmi\u02bbah wa-arba\u02bbah wa-tham\u0101n\u012bn",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL6693762A"
+                    }
+                }
+            ],
+            "key": "/works/OL44071249W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-09-24T17:37:59.080654"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-24T17:37:59.080654"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Down and out in Paris and London",
+            "subjects": [
+                "Social conditions",
+                "Poor"
+            ],
+            "subject_places": [
+                "Paris (France)",
+                "France",
+                "Paris",
+                "London (England)",
+                "England",
+                "London"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL43929489W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-08-22T18:21:41.431939"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-22T18:21:41.431939"
+            }
+        },
+        {
+            "title": "Prentice Hall Literature--The British Tradition",
+            "covers": [
+                -1
+            ],
+            "key": "/works/OL24558288W",
+            "type": {
+                "key": "/type/work"
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL8241493A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118521A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL136194A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9256194A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2543734A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL41961A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL216494A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1478287A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL348127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL58198A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL218787A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4278548A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48850A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18112A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL63008A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113143A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL37436A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26099A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19441A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18283A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL123428A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL226126A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113177A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116256A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6898863A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20580A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1097266A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117027A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20243A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18277A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL220326A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217115A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL271260A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2689389A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL70729A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48862A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29871A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21070A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL112771A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31827A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL153488A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2006241A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6905570A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19964A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27709A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1104584A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117262A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL170469A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL65682A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3451319A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL514894A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL78805A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL68333A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24136A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL873577A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2111876A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL39826A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL38302A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL33141A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2710723A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL36807A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31006A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5609281A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9388A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL107911A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25342A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20743A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL52692A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9256195A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL656577A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL286378A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116412A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL119161A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL159444A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24522A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30664A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL139074A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL223132A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32247A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19450A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26159A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21207A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subjects": [
+                "short stories",
+                "Readers (Secondary)",
+                "Drama",
+                "Flower vending",
+                "Linguistics teachers",
+                "Social classes",
+                "Speech and social status",
+                "Man-woman relationships",
+                "English language",
+                "British and irish drama"
+            ],
+            "subject_places": [
+                "Araby",
+                "North Richmond Street",
+                "Araby bazaar",
+                "London",
+                "England"
+            ],
+            "subject_people": [
+                "Mangan's sister",
+                "Pygmalion",
+                "Galatea",
+                "Henry Higgins",
+                "Eliza Doolittle",
+                "Colonel Pickering",
+                "Alfred Doolittle",
+                "Mrs. Higgins",
+                "Freddy Eynsford Hill"
+            ],
+            "subject_times": [
+                "1912"
+            ],
+            "latest_revision": 19,
+            "revision": 19,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-06-02T12:09:41.111990"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-02T11:44:50.973907"
+            }
+        },
+        {
+            "subjects": [
+                "Truth",
+                "Truthfulness and falsehood",
+                "Political science, philosophy",
+                "Political and social views",
+                "Political aspects"
+            ],
+            "key": "/works/OL20109907W",
+            "title": "Orwell on Truth",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL223840A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                8769785
+            ],
+            "latest_revision": 6,
+            "revision": 6,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-08-27T18:18:53.544489"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-18T10:39:00.717270"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Alf wa-tis\u02bbam\u012byah wa-arba\u02bbah wa-tham\u0101n\u016bn, 1984",
+            "subjects": [
+                "English fiction",
+                "Translations into Arabic"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15630228A"
+                    }
+                }
+            ],
+            "key": "/works/OL43662790W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-07-09T13:03:53.751058"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-09T13:03:53.751058"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984 (Cole\u00e7\u00e3o Duetos)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL35945734W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-06-18T02:56:13.698165"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:07:52.333980"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Revolu\u00e7\u00e3o Dos Bichos (Cole\u00e7\u00e3o Duetos)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL35907070W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-06-17T23:44:58.506179"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:07:52.004392"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Camino Al Muelle de Wigan",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30794871W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-01T11:33:17.587229"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:43.154466"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Dos Novelas para Entender el Mundo Actual : el Nuevo Orden Mundial Y 1984",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13066A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30767672W",
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-01T06:21:34.590297"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:39.172251"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homenaje a Catalu\u00f1a",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30767471W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-01T06:19:20.654380"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:38.825614"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Top 3 Da Cole\u00c7\u00c3o Orwell : 1984 , Animal Farm e Homage to Catalonia",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL36142007W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-07-17T16:13:12.400126"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:37.489164"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "50 Ensayos Traducidos de George Orwell",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30922676W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-02T11:11:42.171931"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:34.488434"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984 (Traducido)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30915689W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-02T09:00:36.972923"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:34.150753"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Top 3 Colecci\u00d3n Orwell : 1984, Rebeli\u00d3n en la Granja y Homenaje a Catalu\u00d1a",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30895894W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-02T04:38:24.636031"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:33.816780"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Sin Blanca en Londres y Par\u00eds",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL30767269W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-01T06:16:49.486562"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-03T01:06:33.142775"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The English people",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL43514650W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-06-15T14:21:40.132531"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-15T14:21:40.132531"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Eseje",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL43486697W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-06-09T02:49:12.749703"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-09T02:49:12.749703"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Plpr4",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL65682A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3451319A"
+                    }
+                }
+            ],
+            "key": "/works/OL29363145W",
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-11-18T04:34:09.534457"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-27T21:52:28.001326"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Shooting an elephant",
+            "subjects": [
+                "English language",
+                "Study and teaching (Secondary)",
+                "English literature"
+            ],
+            "subject_places": [
+                "Israel"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL12061237A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11172898A"
+                    }
+                }
+            ],
+            "key": "/works/OL43364469W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-05-13T07:38:28.334927"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-13T07:38:28.334927"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u015aeu et nes ha-Aspidis\u1e6drah",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15147450A"
+                    }
+                }
+            ],
+            "key": "/works/OL42756244W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-03-19T03:44:31.240037"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-19T03:44:31.240037"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Five Approaches of Literary Criticism",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL3291761A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116256A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL31648831W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-08T07:58:18.494480"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-12T22:14:38.131326"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Skotskii khutor",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42702177W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-03-09T07:04:56.535456"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-09T07:04:56.535456"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "George Orwell'den se\u00e7meler",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15126277A"
+                    }
+                }
+            ],
+            "key": "/works/OL42702077W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-03-09T06:46:38.294662"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-09T06:46:38.294662"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Skotski\u012d khutor",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42645733W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-03-01T17:48:01.540231"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-01T17:48:01.540231"
+            }
+        },
+        {
+            "title": "Prentice Hall Literature--The British Edition--Volume II",
+            "key": "/works/OL9319238W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL2652589A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL63008A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL233960A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL41961A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25342A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26159A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26099A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113143A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20743A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL153488A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113829A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9257121A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9257122A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL384651A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL124940A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21594A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL73405A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30664A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4278548A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48850A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113362A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26783A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL136194A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2543734A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2938041A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24529A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18277A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2775615A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3087858A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL221159A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21207A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116256A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117262A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL286378A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL58198A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL218787A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5609281A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL51261A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL591204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL316976A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL891A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217115A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL216494A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27709A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19441A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31827A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19450A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26160A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19964A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20243A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18928A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL139074A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29871A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6905570A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL471369A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL656577A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24136A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20580A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32247A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34163A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2623461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL230834A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_places": [
+                "Araby",
+                "North Richmond Street",
+                "Araby bazaar"
+            ],
+            "subject_people": [
+                "Mangan's sister"
+            ],
+            "subjects": [
+                "short stories"
+            ],
+            "latest_revision": 19,
+            "revision": 19,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-11T00:16:07.362427"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-25T13:55:17.964971"
+            }
+        },
+        {
+            "covers": [
+                11205006,
+                4963100
+            ],
+            "key": "/works/OL18165436W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL2652589A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2652590A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3258298A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL580004A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2650195A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118521A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL44946A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL142288A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL136194A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21594A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL233960A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9253108A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117429A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9253514A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2832569A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2543734A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5065944A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL41961A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL216494A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1764866A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18928A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL348127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL58198A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113362A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24529A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL218787A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4278548A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48850A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL63008A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1381534A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113143A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2785914A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL37436A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL316976A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2623461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26099A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL40315A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19441A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18283A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL34163A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24638A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL123428A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116256A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9253520A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2378369A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL891A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20580A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117027A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20243A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18277A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217115A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113829A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2689389A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18404A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL70729A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL48862A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL922178A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL29871A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL384651A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL47870A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113246A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21070A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL112771A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL31827A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL153488A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24461A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9253521A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6905570A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19964A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27709A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1104584A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL124940A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL117262A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL170469A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3451319A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL514894A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7084177A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL68333A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL112972A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL591204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24136A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL89930A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7666174A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL18770A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL873577A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9253527A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2111876A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL77056A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL28127A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL39826A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL227752A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL33141A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL471369A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL44891A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL92777A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5609281A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL9388A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL25342A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL20743A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL52692A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL333794A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL656577A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL668991A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL11149A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL26160A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL286378A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL116412A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL159444A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL24522A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30664A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL139074A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL452187A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL223132A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1824A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL239202A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32247A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL73405A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19450A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7499574A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21207A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "title": "Prentice Hall Literature - Timeless Voices, Timeless Themes - The British Tradition",
+            "subject_places": [
+                "Araby",
+                "North Richmond Street",
+                "Araby bazaar"
+            ],
+            "subjects": [
+                "Readers (Secondary)",
+                "Study and teaching (Secondary)",
+                "English literature",
+                "British literature",
+                "short stories"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_people": [
+                "Mangan's sister"
+            ],
+            "latest_revision": 28,
+            "revision": 28,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-01-10T19:50:53.300819"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-25T13:55:17.964971"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Selected essays",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42603930W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-24T16:51:17.592784"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-24T16:51:17.592784"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Selected writings",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42593907W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-23T09:52:47.638409"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-23T09:52:47.638409"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Rebelion en la Granja y la Llamada de Cthultu",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL22161A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL28561084W",
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-21T19:23:14.781172"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-23T02:24:34.689448"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Mi-ta\u1e25at la-af shelkha",
+            "subjects": [
+                "English essays",
+                "English Authors",
+                "Journalists"
+            ],
+            "subject_places": [
+                "Great Britain"
+            ],
+            "subject_times": [
+                "20th century"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15043520A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15043521A"
+                    }
+                }
+            ],
+            "key": "/works/OL42519005W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-12T14:55:32.993979"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-12T14:55:32.993979"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Collected essays",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42516920W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-12T02:28:29.796328"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-12T02:28:29.796328"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Keep the aspidistra flying",
+            "subjects": [
+                "Booksellers and bookselling",
+                "Fiction",
+                "Young men",
+                "Authors"
+            ],
+            "subject_places": [
+                "London (England)"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42514706W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-11T02:53:53.707991"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-11T02:53:53.707991"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Down and out in Paris and London",
+            "subjects": [
+                "Social conditions"
+            ],
+            "subject_places": [
+                "Paris (France)",
+                "London (England)"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42484551W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-02T10:54:46.561998"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-02T10:54:46.561998"
+            }
+        },
+        {
+            "title": "1984",
+            "key": "/works/OL42477494W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Dystopies",
+                "SciFi"
+            ],
+            "subject_times": [
+                "1984"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-30T16:31:30.127632"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-30T17:04:26.927043"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Amaka ga bawansolo",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42329269W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-07T04:05:53.505966"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-07T04:05:53.505966"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The George Orwell collection",
+            "subjects": [
+                "Correspondence",
+                "Archives"
+            ],
+            "subject_people": [
+                "George Orwell (1903-1950)"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42296103W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-12-26T20:43:29.321431"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-26T20:43:29.321431"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Nineteen eighty-four",
+            "subjects": [
+                "Totalitarianism",
+                "Fiction"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42289098W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-12-24T22:44:45.376448"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-24T22:44:45.376448"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u4e00\u4e5d\u516b\u56db\u5e74",
+            "subjects": [
+                "Totalitarianism",
+                "Fiction"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL42208280W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-12-15T23:12:13.819887"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-15T23:12:13.819887"
+            }
+        },
+        {
+            "subject_places": [
+                "Great Britain"
+            ],
+            "subjects": [
+                "World War, 1939-1945",
+                "HISTORY / Military / General"
+            ],
+            "key": "/works/OL91914W",
+            "title": "Victory or vested interest?",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL18544A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL117210A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5458844A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL4494830A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 5,
+            "revision": 5,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-17T14:15:19.103295"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-12-10T20:47:39.773515"
+            }
+        },
+        {
+            "title": "Animal Farm",
+            "subtitle": "The Graphic Novel",
+            "key": "/works/OL23745767W",
+            "type": {
+                "key": "/type/work"
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL8121949A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9944386A"
+                    }
+                }
+            ],
+            "subjects": [
+                "Literature",
+                "Comics & graphic novels, literary",
+                "Comics & graphic novels, adaptations",
+                "Totalitarianism",
+                "Comic books, strips",
+                "Domestic animals",
+                "English Fables",
+                "COMICS & GRAPHIC NOVELS / Literary",
+                "FICTION / Classics",
+                "Oromo language",
+                "Texts"
+            ],
+            "covers": [
+                8781805,
+                12331484
+            ],
+            "description": "**A beautiful graphic adaptation of George Orwell's timeless and timely allegorical novel.**\r\n\r\n*\"All animals are equal, but some animals are more equal than others.\"*\r\n\r\nIn 1945, George Orwell, called \"the conscience of his generation,\" created an enduring, devastating story of new tyranny replacing old, and power corrupting even the noblest of causes. Today it is all too clear that Orwell's masterpiece is still fiercely relevant wherever cults of personality thrive, truths are twisted by those in power, and freedom is under attack. In this fully authorized edition, the artist Odyr translates the world and message of *Animal Farm* into a gorgeously imagined graphic novel.\r\n\r\nOld Major, Napoleon, Squealer, Snowball, Boxer, and all the creatures of *Animal Farm* come to life in this newly envisaged classic. From his individual brushstrokes to the freedom of his page design, Odyr's adaptation seamlessly moves between satire and fable and will appeal to all ages, just as Orwell intended.",
+            "links": [
+                {
+                    "title": "Official Site",
+                    "url": "https://www.harpercollins.com/products/animal-farm-the-graphic-novel-george-orwell?variant=39935603703842",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-12-04T09:19:35.628384"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-27T12:06:01.145603"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Orwell on Freedom",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL102484A"
+                    }
+                }
+            ],
+            "key": "/works/OL26752378W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-12-29T15:13:47.340001"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-09-18T10:20:02.618437"
+            }
+        },
+        {
+            "title": "1984",
+            "covers": [
+                10502178
+            ],
+            "key": "/works/OL23745689W",
+            "type": {
+                "key": "/type/work"
+            },
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL8362974A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "description": "One of the most influential books of the twentieth century gets the graphic treatment in this first-ever adaptation of George Orwell's 1984.",
+            "subtitle": "The Graphic Novel",
+            "subjects": [
+                "Totalitarianism",
+                "Comic books, strips",
+                "Dystopias",
+                "Fiction"
+            ],
+            "latest_revision": 7,
+            "revision": 7,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-12-03T23:26:43.123114"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-02T11:33:01.371277"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Burmese days",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL39464559W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-09-06T13:44:16.289102"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-09-06T13:44:16.289102"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05d7\u05d5\u05d5\u05ea \u05d4\u05d7\u05d9\u05d5\u05ea",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL39300762W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-27T09:17:52.261346"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-27T09:17:52.261346"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05de\u05d7\u05d5\u05d5\u05d4 \u05dc\u05e7\u05d8\u05dc\u05d5\u05e0\u05d9\u05d4",
+            "subjects": [
+                "Journeys",
+                "Communism",
+                "History",
+                "English Personal narratives",
+                "Politics and government"
+            ],
+            "subject_places": [
+                "Spain"
+            ],
+            "subject_times": [
+                "20th century",
+                "Civil War, 1936-1939",
+                "1931-1939"
+            ],
+            "subject_people": [
+                "George Orwell (1903-1950)"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL39291463W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-26T10:10:26.920986"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-26T10:10:26.920986"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Skotski\u012d khutor",
+            "subjects": [
+                "English Political satire"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL38976169W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-09T22:07:00.379646"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-09T22:07:00.379646"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "M\u0169g\u0169nda wa nyam\u0169",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL38970585W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-08-09T11:52:43.029024"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-09T11:52:43.029024"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Politics & the English language",
+            "subjects": [
+                "English language",
+                "Diction",
+                "Style"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL38766564W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-21T18:51:37.445606"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-07-21T18:51:37.445606"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homage to Catalonia",
+            "subjects": [
+                "History",
+                "Personal narratives",
+                "Politics and government"
+            ],
+            "subject_places": [
+                "Spain"
+            ],
+            "subject_times": [
+                "Civil War, 1936-1939",
+                "1931-1939"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL118077A"
+                    }
+                }
+            ],
+            "key": "/works/OL38639822W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T16:32:53.342372"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-07-17T16:32:53.342372"
+            }
+        }
+    ]
+}
